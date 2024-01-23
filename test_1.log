@@ -1,0 +1,8 @@
+INFO:__main__:Функция запрашивает число от пользователя до тех пор, пока не будет введено целое или вещественное число.
+ERROR:__main__:"Ошибка!" - could not convert string to float: 'five', ваш ввод five = <class 'str'>
+CRITICAL:__main__:"Код работать не будет, ошибка!" - could not convert string to float: 'five', ваш ввод five = <class 'str'>
+INFO:__main__:5
+WARNING:__main__:Треугольник не существует!!
+ERROR:__main__:Превышено максимальное значение
+INFO:__main__:{'ключи': 30, 'кошелек': 50, 'телефон': 140}
+INFO:__main__:{1: 'a', 'hello': 'b', '[1, 2, 3]': 'c', '{}': 'd'}
